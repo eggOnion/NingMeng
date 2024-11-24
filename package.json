@@ -1,7 +1,7 @@
 {
   "name": "littlelemonrestaurant",
   "version": "0.1.0",
-  "homepage": "https://eggOnion.github.io/LittleLemon",
+  "homepage": "https://eggonion.github.io/littlelemonrestaurant",
   "private": true,
   "dependencies": {
     "@ark-ui/react": "^4.4.4",
